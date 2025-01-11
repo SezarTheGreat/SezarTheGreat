@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sezar_thegreat" target="blank"><img src="https://img.shields.io/twitter/follow/sezar_thegreat?logo=twitter&style=for-the-badge" alt="sezar_thegreat" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C, Java**
+- 🌱 I’m currently learning **Python, C++, Java**
 
 - 📫 How to reach me **jyotishmanjbbarman@gmail.com**
 
@@ -18,6 +18,7 @@
 <a href="https://twitter.com/sezar_thegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sezar_thegreat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jyotishman-barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotishman-barman" height="30" width="40" /></a>
 <a href="https://instagram.com/sezar_thegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sezar_thegreat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sezar_thegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sezar_thegreat" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jyotishman7l9l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jyotishman7l9l" height="30" width="40" /></a>
 </p>
 
