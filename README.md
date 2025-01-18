@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sezar_thegreat" target="blank"><img src="https://img.shields.io/twitter/follow/sezar_thegreat?logo=twitter&style=for-the-badge" alt="sezar_thegreat" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C++, Java**
+- 🌱 I’m currently learning **Python, C, C++**
 
 - 📫 How to reach me **jyotishmanjbbarman@gmail.com**
 
